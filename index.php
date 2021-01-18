@@ -39,3 +39,13 @@ foreach ($associative_array as $key => $value)
 		echo $indexed_array[$key];
 	/*/
 }
+
+switch (true)
+{
+	case true:
+		echo 'expected result';
+		break;
+	case false:
+		echo 'warning, the computer has shit the bed! put your head between your knees and wait for the police to arrive';
+		break;
+}
