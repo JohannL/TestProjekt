@@ -49,3 +49,16 @@ switch (true)
 		echo 'warning, the computer has shit the bed! put your head between your knees and wait for the police to arrive';
 		break;
 }
+
+if (1 < 50)
+{
+	echo 'math!';
+}
+else if (43895894389434 > 49)
+{
+	echo 'more math!';
+}
+else
+{
+	echo 'MOST MATH!';
+}
